@@ -1,26 +1,26 @@
 {
-  "name": "react-rails-starterkit",
-  "version": "0.2.0",
-  "description": "React on Rails starter kit",
+  "name": "react-rails-chat",
+  "version": "0.0.0",
+  "description": "React on Rails Chat",
   "scripts": {
     "start": "node dist/server.js",
     "install": "gulp"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/elierotenberg/react-rails-starterkit.git"
+    "url": "git://github.com/elierotenberg/react-rails-chat.git"
   },
   "keywords": [
     "react",
     "react-rails",
-    "starterkit"
+    "chat"
   ],
   "author": "Elie Rotenberg <elie@rotenberg.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/elierotenberg/react-rails-starterkit/issues"
+    "url": "https://github.com/elierotenberg/react-rails-chat/issues"
   },
-  "homepage": "https://github.com/elierotenberg/react-rails-starterkit",
+  "homepage": "https://github.com/elierotenberg/react-rails-chat",
   "dependencies": {
     "assert": "^1.1.2",
     "bluebird": "^2.3.2",
